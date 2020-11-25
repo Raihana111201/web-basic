@@ -1,18 +1,21 @@
-/*
+//1. loading website
 window.onload = function check(){
 				var r = confirm("Klik OK untuk mendapatkan notifikasi");
 				if (r==true){
 				  alert("Kamu akan mendapatkan notifikasi dari web ini")
 					}
 				}
-*/
+
+//2.alert check
 document.getElementById("follow").addEventListener("click", function check() {
 	var s = confirm("Apakah kamu ingin mendaftar menjadi member?");
-				if (s==true){
-				  alert("Selamat!! \n Anda Sudah Terdaftar Menjadi Member Kami");
+				if (s==true){s
+				  alert("Selamat!! \n Kamu Sudah Terdaftar Menjadi Member Kami");
 				}
 });
 
+
+//3. mouse button hover
 function mOver(obj) {
   obj.innerHTML= "Daftar";
 }
@@ -20,6 +23,9 @@ function mOver(obj) {
 function mOut(obj) {
   obj.innerHTML = "Ikuti Kami";
 }
+
+
+//4. top of the page
 
 //Get the button
 var mybutton = document.getElementById("myBtn");
@@ -41,12 +47,3 @@ document.getElementById("myBtn").addEventListener("click", function(){
   	document.documentElement.scrollTop = 0;		
 });
 
-
-function myFunction() {
-  var x = document.getElementById("myLinks");
-  if (x.style.display === "block") {
-    x.style.display = "none";
-  } else {
-    x.style.display = "block";
-  }
-}
