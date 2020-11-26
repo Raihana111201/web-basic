@@ -24,6 +24,7 @@
     background-color:#009999;
     padding: 5px;
     display: flex;
+    position: sticky;
     top: 0;
    }
    nav a {
@@ -66,6 +67,12 @@
     width: 75%;
    }
 
+   #inform{
+     margin-left: 10px;
+     margin-top: 38px;
+   }
+
+
    aside{
   float: right;
   width: 25%;
@@ -87,7 +94,7 @@
    }
 
   #logo h4{
-      margin-top: 30px;
+      margin-top: 10px;
       text-align: center;
     }
 
