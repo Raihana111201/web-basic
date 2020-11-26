@@ -1,4 +1,4 @@
-# web-basic
+# web-basic {HTML, CSS, JavaScript}
 
 # Copyright Kelompok 3 Sistem Web and Mobile :
 - Raihana Ramadhanulita
