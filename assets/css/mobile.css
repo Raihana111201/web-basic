@@ -12,35 +12,16 @@
     nav li{
     	line-height: 2.0;
     }
- 
-    .logo{
-    	width: 80%;
-    	height: 230px
-    }
 
-    #inform{
-    	margin-left: 60px
-    }
-
-    #logo h2{
+    #logo h2, #logo h4{
     	margin-top: 30px;
     	text-align: center;
     }
-
-    #logo figure{
-    	margin-left: 120px
+    
+    .button{
+        margin: 30px 0 20px 60px;
     }
 
-    figcaption{
-    	margin-left: 90px
-    }
-
-    #follow{
-    	margin-left: 120px;	
-    	margin-bottom: 30px
-    }
-
-  
     .why{
     	width: 100%;
     max-height: 350px;
