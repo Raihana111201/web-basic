@@ -1,11 +1,11 @@
 # web-basic {HTML, CSS, JavaScript}
 
-# Copyright Kelompok 3 Sistem Web and Mobile :
+## Copyright Kelompok 3 Sistem Web and Mobile :
 - Raihana Ramadhanulita
 - Cut Elfia
 - Ahmad Farhan
 
-# Dosen Pembimbing : Ridwan, S.ST., M.T.
+## Dosen Pembimbing : Ridwan, S.ST., M.T.
 
 #UIN Ar-Raniry
 #Fakultas Saintek 
